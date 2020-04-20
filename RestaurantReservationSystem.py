@@ -44,8 +44,8 @@ class RestaurantReservationSystem:
 
     # display table and its availability
     def __report(self):
-        for x in range(len(self.table)):
-            print("Table: ", x, "-", self.table[x])
+        for x in range(1, len(self.table)+1):
+            print("Table: ", x, "-", self.table[x-1])
 
         print()
 

@@ -5,4 +5,5 @@ Simple beginner Python projects.
 - ChinaSatisfactionSurvey
 - ClubMembershipTracker
 - GuessDaNumber
+- Hangman
 - RestaurantReservationSystem
